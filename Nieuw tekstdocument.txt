@@ -1,0 +1,4 @@
+dit heb ik in NotePad++ gemaakt (nieuw bestand gemaakt en deze tekst getypt)
+zie ik dit nu ook in GitHub?
+Nee, niet zo.
+ik heb dit bestand er heen gesleurd (gecommit aan de Main branche) maar zie het nog niet er bij staan
