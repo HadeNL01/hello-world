@@ -2,3 +2,5 @@ dit heb ik in NotePad++ gemaakt (nieuw bestand gemaakt en deze tekst getypt)
 zie ik dit nu ook in GitHub?
 Nee, niet zo.
 ik heb dit bestand er heen gesleurd (gecommit aan de Main branche) maar zie het nog niet er bij staan
+dat was omdat het leeg (leek), ik had het niet goed genoeg opgeslagen in NotePad
+regel 5 en 6 heb ik in GitHub er bij gezet
