@@ -5,3 +5,5 @@ ik heb dit bestand er heen gesleurd (gecommit aan de Main branche) maar zie het 
 dat was omdat het leeg (leek), ik had het niet goed genoeg opgeslagen in NotePad. Ik dacht dat het was omdat ik ze op de C-schijf in \GitHub\hello-world had gezet, daar heb ik ze uit gehaald en vanaf de nieuwe lokatie hierheen (GitHub) gesleurd
 regel 5 en 6 heb ik in GitHub er bij gezet
 je moet in GitHub Desktop pull origin en dan staan ze op de C-schijf erbij!
+
+deze regel heb ik in NotePad er in gezet, vanaf de C-schijf, niet via GitHub
