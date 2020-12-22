@@ -9,4 +9,4 @@ je moet in GitHub Desktop pull origin en dan staan ze op de C-schijf erbij!
 deze regel heb ik in NotePad er in gezet, vanaf de C-schijf, niet via GitHub
 daarna gepushed in GitHub Desktop.
 
-toen in Spyder geopend
+toen in Spyder geopend, en weer gepushed in GitHub Desktop. en dat lijkt zo wel te werken
