@@ -7,3 +7,6 @@ regel 5 en 6 heb ik in GitHub er bij gezet
 je moet in GitHub Desktop pull origin en dan staan ze op de C-schijf erbij!
 
 deze regel heb ik in NotePad er in gezet, vanaf de C-schijf, niet via GitHub
+daarna gepushed in GitHub Desktop.
+
+toen in Spyder geopend
